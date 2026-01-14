@@ -17,14 +17,14 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Competitive%20Programmer&fontSize=50)
 
-### 👨🏻‍💻 About Me
+### About Me
 
 - I am currently learning System Design.
 - I actively solve problems on LeetCode, CodeForces, and CodeChef.
 - I always thrive for Open Source
 
 
-### 🛠 Languages
+### Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
