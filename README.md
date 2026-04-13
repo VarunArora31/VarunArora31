@@ -33,13 +33,3 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
-
----
-
-### ⚙️ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=VarunArora31&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=VarunArora31&theme=radical" alt="GitHub Streak" />
-</p>
